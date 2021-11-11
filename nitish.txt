@@ -1,3 +1,7 @@
+www
+whm
+webdisk
+webmail
 topup
 sdp
 sda
